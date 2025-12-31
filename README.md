@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=spring" />
 
 **Database**  
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,psotgresql,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,mariaDB,psotgresql,redis" />
 
 
 
