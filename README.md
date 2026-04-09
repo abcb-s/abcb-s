@@ -3,7 +3,7 @@
 ## Tech Stack
 
 **Language**  
-<img src="https://skillicons.dev/icons?i=java,python" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 
 **Framework**  
 <img src="https://skillicons.dev/icons?i=spring" />
