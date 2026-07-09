@@ -3,13 +3,13 @@
 ## Tech Stack
 
 **Language**  
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,kotlin" />
 
 **Framework**  
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring,websocket" />
 
 **Database**  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongo" />
 
 
 <!--
