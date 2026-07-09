@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,javascript,kotlin" />
 
 **Framework**  
-<img src="https://skillicons.dev/icons?i=spring,websocket" />
+<img src="https://skillicons.dev/icons?i=spring,jpa" />
 
 **Database**  
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongo" />
