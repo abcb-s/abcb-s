@@ -22,4 +22,4 @@
 
 ### DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,termius,grafana" />
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,grafana" />
