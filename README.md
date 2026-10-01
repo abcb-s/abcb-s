@@ -6,7 +6,7 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,,python,spring,fastapi" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,fastapi" />
 
 ### Frontend
 
