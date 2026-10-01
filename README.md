@@ -6,7 +6,7 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,,python,spring,fastapi" />
 
 ### Frontend
 
@@ -14,7 +14,7 @@
 
 ### Language
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp" />
 
 ### Database
 
