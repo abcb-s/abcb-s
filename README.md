@@ -18,8 +18,8 @@
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongo,sqlite" />
 
 ### DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,nginx,grafana" />
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,nginx,grafana,ubuntu" />
