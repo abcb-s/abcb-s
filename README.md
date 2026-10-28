@@ -10,7 +10,11 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs" />
+
+### Physical Ai
+
+<img src="https://skillicons.dev/icons?i=ros" />
 
 ### Language
 
