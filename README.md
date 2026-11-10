@@ -22,7 +22,7 @@
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongo,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongo,sqlite,kafka" />
 
 ### DevOps
 
